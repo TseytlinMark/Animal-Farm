@@ -49,7 +49,7 @@ To run the project:
     ```
 
 ## How It Works
-The system is built around the concept of managing different types of farms, each containing a specific type of animal. The `Market` class acts as the control unit, interacting with farms and handling the buying and selling of animals. The `Main.cpp` file provides a menu system for user interaction, allowing users to manage the farms, view animals, and handle market operations.
+The system is built around the concept of managing different types of farms, each containing a specific type of animal. The `Market` class acts as the control unit, interacting with farms and handling the buying and selling of animals. The `farmMarket.cpp` file provides a menu system for user interaction, allowing users to manage the farms, view animals, and handle market operations.
 
 Key highlights of the project:
 - **Polymorphism:** The animal and farm classes use polymorphic behavior to handle different types of animals and farms in a unified way.
