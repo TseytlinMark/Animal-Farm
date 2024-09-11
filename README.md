@@ -41,10 +41,8 @@ To run the project:
     ```bash
     git clone https://github.com/yourusername/animal-farm-cpp.git
     ```
-2. Compile the project using the provided Makefile:
-    ```bash
-    make
-    ```
+2. Compile the project
+
 3. Run the compiled executable:
     ```bash
     ./AnimalFarm
